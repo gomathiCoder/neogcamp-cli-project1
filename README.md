@@ -8,7 +8,7 @@
  This project runs on replit.com. Also, it is a part of my learning on __neogcamp level zero__.
 
  ## Instruction to play quiz
- ---
+
  - Click this link :point_right: [quiz-to-frndz](https://replit.com/@GomathiCoder/ex15markOne?embed=1&output=1#index.js)
  to play the quiz.
  - Enter your name.
