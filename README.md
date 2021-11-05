@@ -11,6 +11,7 @@
 
  - Click this link :point_right: [quiz-to-frndz](https://replit.com/@GomathiCoder/ex15markOne?embed=1&output=1#index.js)
  to play the quiz.
+ - If quiz not started, click on green colour __play button__ at the bottom right corner of the page.
  - Enter your name.
  - Answer all the questions.
  - Get __1 point__ for each correct answer.
